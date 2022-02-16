@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@seo1163 
-seo1163
-/
-Legacy_4
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Legacy_4/.gitignore
-@seo1163
-seo1163 Update .gitignore
-Latest commit 1b9b822 7 hours ago
- History
- 1 contributor
-146 lines (112 sloc)  2.29 KB
-   
 # Created by https://www.toptal.com/developers/gitignore/api/windows,eclipse,maven,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,eclipse,maven,java
 
@@ -171,4 +142,4 @@ $RECYCLE.BIN/
 ## DB ##
 database.properties
 
-
+# End of https://www.toptal.com/developers/gitignore/api/windows,eclipse,maven,java
